@@ -1,10 +1,11 @@
 # Hi, I'm Paola 👋
 
-I'm a **Computer Science / Intelligent Computing student** interested in building software systems and exploring intelligent, algorithm-driven solutions.
+🎓 Intelligent Computing (Computer Science) student  
+💻 Focused on software development, algorithms, and problem-solving
 
-My work focuses on combining **algorithms, system logic, and practical software development** while building a strong foundation before specializing.
+I’m building a strong technical foundation through **academic work, competitive programming, and hands-on projects**, while exploring different areas before specializing.
 
-**Current focus:** data structures & algorithms, graph theory, automation  
+**Current focus:** data structures & algorithms, automation, competitive programming, software systems
 **Tech:** C++, Python, JavaScript, SQL | Git, GitHub, React, HTML, CSS  
 
 📫 [LinkedIn](https://www.linkedin.com/in/paola-montserrat-osorio-garcía)
